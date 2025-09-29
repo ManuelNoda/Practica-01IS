@@ -35,5 +35,10 @@
 
    ![consola](imagenes_pr01/consola.png)
 
+   ## GIF
+   Aqui esta el gif para mostrar el resultado final de la practica.
+
+   ![gif](resultado.gif)
+
   
 
